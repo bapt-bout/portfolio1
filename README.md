@@ -24,6 +24,11 @@ Ce portfolio inclut des **images** et des **vidéos** pour offrir un aperçu vis
    
   ![Contact](readme/contact.PNG)
 
+  - **Footer** :
+  
+  ![Contact](readme/footer.PNG)
+    
+
 ## Technologies
 
 Ce portfolio a été développé en utilisant :
